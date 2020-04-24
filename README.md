@@ -1,3 +1,3 @@
-#Rustris
+# Rustris
 ---
-##A rust tetris clone
+## A rust tetris clone
